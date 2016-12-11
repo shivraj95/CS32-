@@ -5,6 +5,7 @@ ladder of the shortest length. For example, it turns out that a ladder of shorte
 "have" to "hate". 
 
 There are four allowable transformations from one word to the next:
+  
   • One letter may be replaced (e.g., "have" to "hate", or "big" to
     "pig").
 
