@@ -1,4 +1,4 @@
-# CS32-
+# Word Ladder
 Given two words, the goal is to find a chain of words from one to the other, where each pair of adjacent words differ by only one letter. 
 For example, given "love" and "hate", one ladder would be "love" to "cove" to "cave" to "have" to "hate". The challenge is to find the
 ladder of the shortest length. For example, it turns out that a ladder of shortest length from "love" to "hate" is "love" to "hove" to 
